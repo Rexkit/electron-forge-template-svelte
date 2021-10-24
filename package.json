@@ -1,0 +1,23 @@
+{
+  "name": "electron-forge-template-svelte",
+  "version": "1.0.0",
+  "electronForgeVersion": "6.0.0-beta.61",
+  "description": "Electrom Forge Svelte Template",
+  "author": "Nikita Kuzin",
+  "main": "dist/SvelteTemplate.js",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "dependencies": {
+    "@electron-forge/async-ora": "^6.0.0-beta.61",
+    "@electron-forge/shared-types": "^6.0.0-beta.61",
+    "@electron-forge/template-base": "^6.0.0-beta.61",
+    "fs-extra": "^10.0.0",
+    "source-map-support": "^0.5.20"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "typescript": "^4.4.4"
+  }
+}
