@@ -1,5 +1,5 @@
 {
-  "name": "electron-forge-template-svelte-kit",
+  "name": "electron-forge-template-svelte",
   "version": "1.0.1",
   "electronForgeVersion": "6.0.0-beta.61",
   "description": "Electrom Forge Svelte Template",
